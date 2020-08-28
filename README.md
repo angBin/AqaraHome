@@ -1,0 +1,2 @@
+# AqaraHome
+plist file
